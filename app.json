@@ -1,5 +1,5 @@
 {
-  "name": "Start on Heroku: Java",
-  "description": "A barebones Java app, which can easily be deployed to Heroku.",
+  "name": "DevOps-Helper",
+  "description": "A Java application providing DevOps helper utilities for Salesforce.",
   "addons": ["heroku-postgresql"]
 }
